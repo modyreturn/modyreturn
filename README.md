@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Fawzi Attia Ebid
+# 👋 Hi, I'm Mohamed Fawzi
 
 **Data Analyst | Python & Power BI Developer**  
 Transforming data into decisions with Python, SQL, and BI tools.
